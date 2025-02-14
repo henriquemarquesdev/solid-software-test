@@ -1,0 +1,1 @@
+export { RANDOM_HEXADECIMAL, DEFAULT_BACKGROUND_COLOR } from "./constants";
