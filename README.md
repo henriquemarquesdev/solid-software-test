@@ -52,8 +52,6 @@ The test coverage of the project can be viewed after running the tests. The cove
 
 Open the `coverage/lcov-report/index.html` file in your browser to view the detailed coverage report.
 
-Project [coverage](./coverage/lcov-report/index.html)
-
 ### Project Structure
 
 The project was developed following clean architecture principles, with an organized folder structure to facilitate maintenance and scalability:
